@@ -7,6 +7,8 @@ following algorithms were implemented:
 
 =>Dynamic BIMODAL Branch Predictor (Dynamic-BM)
 
-=>Dynamic BIMODAL Branch Predictor with Global Branch History (Dynamic-GSHARE)
+=>Dynamic BIMODAL Branch Predictor
+
+=>Global Branch History (Dynamic-GSHARE)
 
 Here i implemented the 1 and 2 in .py using spyder(anaconda) compiler
