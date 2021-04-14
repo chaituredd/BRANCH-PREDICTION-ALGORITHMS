@@ -5,3 +5,4 @@ following algorithms were implemented:
 2)Static ALWAYS NOT TAKEN Branch Predictor (Static-NT)
 3)Dynamic BIMODAL Branch Predictor (Dynamic-BM)
 4)Dynamic BIMODAL Branch Predictor with Global Branch History (Dynamic-GSHARE)
+5)Here i implemented the 1 and 2 in .py using spyder(anaconda) compiler
