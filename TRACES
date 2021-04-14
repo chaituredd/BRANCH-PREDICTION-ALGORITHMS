@@ -1,0 +1,12 @@
+The traces are generated from runs of real-world programs.
+They only contain the 
+dynamic instances of conditional branches alone. As unconditional branches are always taken, they are 
+excluded from the trace. Each line of the trace file has two fields. Below are the first four lines of a trace 
+file:
+0x40fc96 1
+0x40fc96 0
+0x40fcb9 0
+0x40fcf2 1
+0x40fcf2 1
+The first field is the address of the branch instruction. The second field is “1” if the branch was taken 
+during the execution, or "0" for branch not being taken.
