@@ -1,8 +1,8 @@
 # BRANCH-PREDICTION-ALGORITHMS
 Branch Prediction algorithms and analyze their effectiveness on real-world program traces.
 following algorithms were implemented:
-1)Static ALWAYS TAKEN Branch Predictor (Static-T)
-2)Static ALWAYS NOT TAKEN Branch Predictor (Static-NT)
-3)Dynamic BIMODAL Branch Predictor (Dynamic-BM)
-4)Dynamic BIMODAL Branch Predictor with Global Branch History (Dynamic-GSHARE)
-5)Here i implemented the 1 and 2 in .py using spyder(anaconda) compiler
+=>Static ALWAYS TAKEN Branch Predictor (Static-T) 
+=>Static ALWAYS NOT TAKEN Branch Predictor (Static-NT)
+=>Dynamic BIMODAL Branch Predictor (Dynamic-BM)
+=>Dynamic BIMODAL Branch Predictor with Global Branch History (Dynamic-GSHARE)
+Here i implemented the 1 and 2 in .py using spyder(anaconda) compiler
